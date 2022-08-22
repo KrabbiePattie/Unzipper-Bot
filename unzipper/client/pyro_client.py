@@ -99,7 +99,7 @@ class UnzipperBot(Client):
                     ga = Async_Gofile()
                     gfio = await ga.upload(doc_f)
                     from unzipper import Buttons
-                    await upmsg.edit("**Your file has been uploaded to gofile! Click on the below button to download it 👇**", reply_markup=await Buttons.make_button("Gofile link 🔗", url=gfio["downloadPage"]))
+                    await upmsg.edit("**Your file has been uploaded to gofile! Click on the below button to download it 👇**", reply_markup=await Buttons.make_button("GOFILE LINK 🔗", url=gfio["downloadPage"]))
                 except:
                     await upmsg.edit("`Upload failed, Better luck next time 😔!`")
                 remove(doc_f)
@@ -115,7 +115,7 @@ class UnzipperBot(Client):
                 await self.send_video(
                     chat_id=c_id,
                     video=doc_f,
-                    caption="**Extracted by @NexaUnzipper_Bot**",
+                    caption="**Extracted By @ExtractFilesBot**",
                     duration=int(
                         vid_duration) if vid_duration.isnumeric() else 0,
                     thumb=sthumb,
@@ -127,7 +127,7 @@ class UnzipperBot(Client):
                 await self.send_document(
                     chat_id=c_id,
                     document=doc_f,
-                    caption="**Extracted by @NexaUnzipper_Bot**",
+                    caption="**Extracted By @ExtractFilesBot**",
                     thumb=sthumb,
                     progress=progress_for_pyrogram,
                     progress_args=("**Trying to upload 😇** \n", tgupmsg, stm))
