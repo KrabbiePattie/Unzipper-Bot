@@ -61,7 +61,7 @@ async def progress_for_pyrogram(current, total, ud_type, message, start):
             "unknown"
         )
         try:
-            await message.edit("{}\n {} \n\n**Powered by @NexaBotsUpdates**".format(ud_type, tmp))
+            await message.edit("{}\n {} \n\n**Powered By @FlixBots & @Modzilla**".format(ud_type, tmp))
         except:
             pass
 
