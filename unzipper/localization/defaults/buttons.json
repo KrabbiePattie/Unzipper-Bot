@@ -1,30 +1,30 @@
 {
-    "about": "About ⁉️",
-    "clean": "Clean My Files 😇",
-    "upload_all": "Upload All ♻️",
+    "about": "ABOUT ⁉️",
+    "clean": "CLEAN MY FILES 😇",
+    "upload_all": "UPLOAD ALL ♻️",
     
-    "cancel": "Cancel ❌",
-    "no_cancel": "Nooo 😳!",
+    "cancel": "CANCEL ❌",
+    "no_cancel": "NOOO!! 😳!",
     
-    "back": "Back 🏡",
-    "back_to_help_menu": "Back to Help Menu ◀️",
+    "back": "BACK 🏡",
+    "back_to_help_menu": "BACK TO HELP MENUu ◀️",
     
-    "help": "Help 📜",
-    "help_extract": "Extract 🗃",
-    "help_upload": "Upload 📤",
-    "help_thumbnail": "Thumbnail 🖼",
-    "help_backup": "Backup 🗄",
-    "help_langs": "Languages 🗣",
+    "help": "HELP 📜",
+    "help_extract": "EXTRACT 🗃",
+    "help_upload": "UPLOAD 📤",
+    "help_thumbnail": "THUMBNAIL 🖼",
+    "help_backup": "BACKUP 🗄",
+    "help_langs": "LANGUAGES 🗣",
 
-    "extract_file": "File Extract 📂",
-    "extract_file_pass": "File (Password) Extract 📂",
-    "extract_url": "🔗 Url Extract 📂",
-    "extract_url_pass": "🔗 (Password) Url Extract 📂",
+    "extract_file": "FILE EXTRACT 📂",
+    "extract_file_pass": "FILE (PASSWORD) EXTRACT 📂",
+    "extract_url": "🔗 URL EXTRACT 📂",
+    "extract_url_pass": "🔗 URL (PASSWORD) EXTRACT 📂",
 
-    "gofile_set": "Set token",
-    "gofile_get": "Get token",
-    "gofile_del": "Delete token",
+    "gofile_set": "SET TOKEN",
+    "gofile_get": "GET TOKEN",
+    "gofile_del": "DELETE TOKEN",
 
-    "as_vid": "As Video 📹",
-    "as_doc": "As Doc 📁"
+    "as_vid": "UPLOAD AS VIDEO 📹",
+    "as_doc": "UPLOAD AS DOCUMENT 📁"
 }
