@@ -2,7 +2,7 @@
     "this_lang": "en",
 
     "start": "Hi  **{}**, I'm An **Extract Files Bot** 😇!\n\nSend Your Archive File, Select The Appropriate Options You Wish To. You Can Clear Your All Files With `/clean` Your Process Queue Will Be Cleared. If Anything Is Uploading At Now, It Will Be Cleared. Be Careful ⚠️.\n\n🍒 Supported Formats: **7Z, APM, ARJ, BZ2, BZIP2, CAB, CHM, CPIO, CRAMFS, DEB, DMG, FAT, GZ, GZIP, HFS, ISO, LZH, LZMA, LZMA2, MBR, MSI, MSLZ, NSIS, NTFS, RAR, RPM, SQUASHFS, TAR, TAR.BZ2, TAR.GZ, TAR.XZ, TBZ2, TGZ, UDF, VHD, WIM, XAR, Z, ZIP**\n\n**Powered By @ModzillaMods**",
-    "about": "**About Extract Files Bot,**\n\n✘ **Language:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Source Code:** [Itz-fork/Unzipper-Bot](https://t.me/NOSOURCECODE)\n✘ **Developer:** [Modzilla](https://t.me/Iggie)\n\n**Made with ❤️ by @Modzilla**",
+    "about": "**About Extract Files Bot,**\n\n✘ **Language:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Source Code:** [Click Here](https://t.me/NOSOURCECODE)\n✘ **Developer:** [Flakes](https://t.me/FristyFlakes)\n\n**Made with ❤️ by @ModzillaMods**",
     
     "processing": "`Processing ⚙️...`",
     "refreshing": "`Refreshing ⏳...`",
